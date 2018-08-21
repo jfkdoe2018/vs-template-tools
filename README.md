@@ -1,2 +1,4 @@
 # vs-template-tools
 BAYSOFT Custom Visual Studio Template Tools
+
+Some change ok
